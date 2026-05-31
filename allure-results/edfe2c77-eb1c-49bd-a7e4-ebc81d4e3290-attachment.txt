@@ -1,0 +1,4 @@
+[32mINFO    [0m root:test_login.py:25 Test case started
+[32mINFO    [0m root:test_login.py:27 Browser Launched
+[32mINFO    [0m root:test_login.py:29 Test case completed
+[32mINFO    [0m root:test_login.py:31 Login Successful
